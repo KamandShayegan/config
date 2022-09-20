@@ -33,3 +33,6 @@ flutter
 #remove chrome executable
 rm -rf google-chrome-stable_current_amd64.deb
 
+#install discord:
+sudo snap install discord
+
