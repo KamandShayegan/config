@@ -1,2 +1,2 @@
-# config
-Configure your OS with a bash script
+
+Configure your OS for Flutter development with a bash script.
